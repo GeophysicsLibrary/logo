@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,11 +12,11 @@
    viewBox="0 0 211.66666 211.66666"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
    sodipodi:docname="geophysicslibrary-logo.svg"
    inkscape:export-filename="geophysicslibrary-logo.png"
-   inkscape:export-xdpi="36"
-   inkscape:export-ydpi="36">
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,18 +26,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="-246.95918"
-     inkscape:cy="661.22777"
+     inkscape:zoom="0.42006606"
+     inkscape:cx="-928.26829"
+     inkscape:cy="516.69313"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1585"
-     inkscape:window-height="1784"
-     inkscape:window-x="1605"
-     inkscape:window-y="6"
+     inkscape:window-width="3200"
+     inkscape:window-height="1800"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     units="px" />
+     units="px"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -57,71 +56,96 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-85.333343)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.1"
+       id="rect852"
+       width="211.66667"
+       height="211.66667"
+       x="-2.5431314e-06"
+       y="85.333344" />
     <g
-       id="g4989"
-       transform="matrix(1.0175482,0,0,1.0175482,-1.81854,-25.583148)">
-      <rect
-         transform="rotate(-90)"
-         rx="2.7729218"
-         ry="2.4221339"
-         y="74.503464"
-         x="-239.00378"
-         height="15"
-         width="115"
-         id="rect975"
-         style="opacity:1;fill:#ff5555;fill-opacity:1;stroke-width:0.12004756" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path815-0"
-         d="m 144.80323,109.00375 a 64.999941,64.999941 0 0 0 -2.60836,0.0922 v 129.77706 a 64.999941,64.999941 0 0 0 2.60836,0.13077 64.999941,64.999941 0 0 0 65.0003,-65.00029 64.999941,64.999941 0 0 0 -65.0003,-64.99969 z"
-         style="opacity:1;fill:#3771c8;fill-opacity:1;stroke-width:0.24970287" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path815-0-2"
-         d="m 66.787478,109.00378 a 64.999953,64.999953 0 0 0 -65.0002974,64.9997 64.999953,64.999953 0 0 0 65.0002974,65.0003 64.999953,64.999953 0 0 0 0.152174,-0.005 V 109.01166 a 64.999953,64.999953 0 0 0 -0.152174,-0.008 z"
-         style="opacity:1;fill:#3771c8;fill-opacity:1;stroke-width:0.24970292" />
-      <rect
-         transform="rotate(-90)"
-         rx="2.7729218"
-         ry="2.4221339"
-         y="97.067268"
-         x="-239.00378"
-         height="15"
-         width="130"
-         id="rect975-3"
-         style="opacity:1;fill:#ff9955;fill-opacity:1;stroke-width:0.12004756" />
-      <rect
-         transform="rotate(-90)"
-         rx="2.7729218"
-         ry="2.4221339"
-         y="119.63107"
-         x="-239.00378"
-         height="15"
-         width="100"
-         id="rect975-61"
-         style="opacity:1;fill:#71c837;fill-opacity:1;stroke-width:0.12004756" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.69444466px;line-height:1.25;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.42160416"
-       x="5.9937773"
-       y="254.67383"
-       id="text4993"><tspan
-         sodipodi:role="line"
-         id="tspan4991"
+       id="g850"
+       transform="matrix(0.95000002,0,0,0.95000002,5.2916645,12.071921)">
+      <g
+         id="g4989"
+         transform="matrix(1.0175482,0,0,1.0175482,-1.81854,-25.583148)">
+        <rect
+           transform="rotate(-90)"
+           rx="2.7729218"
+           ry="2.4221339"
+           y="74.503464"
+           x="-239.00378"
+           height="15"
+           width="115"
+           id="rect975"
+           style="opacity:1;fill:#ff5555;fill-opacity:1;stroke-width:0.120048" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path815-0"
+           d="m 144.80323,109.00375 a 64.999941,64.999941 0 0 0 -2.60836,0.0922 v 129.77706 a 64.999941,64.999941 0 0 0 2.60836,0.13077 64.999941,64.999941 0 0 0 65.0003,-65.00029 64.999941,64.999941 0 0 0 -65.0003,-64.99969 z"
+           style="opacity:1;fill:#3771c8;fill-opacity:1;stroke-width:0.249703" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path815-0-2"
+           d="m 66.787478,109.00378 a 64.999953,64.999953 0 0 0 -65.0002974,64.9997 64.999953,64.999953 0 0 0 65.0002974,65.0003 64.999953,64.999953 0 0 0 0.152174,-0.005 V 109.01166 a 64.999953,64.999953 0 0 0 -0.152174,-0.008 z"
+           style="opacity:1;fill:#3771c8;fill-opacity:1;stroke-width:0.249703" />
+        <rect
+           transform="rotate(-90)"
+           rx="2.7729218"
+           ry="2.4221339"
+           y="97.067268"
+           x="-239.00378"
+           height="15"
+           width="130"
+           id="rect975-3"
+           style="opacity:1;fill:#ff9955;fill-opacity:1;stroke-width:0.120048" />
+        <rect
+           transform="rotate(-90)"
+           rx="2.7729218"
+           ry="2.4221339"
+           y="119.63107"
+           x="-239.00378"
+           height="15"
+           width="100"
+           id="rect975-61"
+           style="opacity:1;fill:#71c837;fill-opacity:1;stroke-width:0.120048" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;line-height:1.25;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.421604"
          x="5.9937773"
          y="254.67383"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';letter-spacing:5.29166651px;fill:#666666;stroke-width:0.42160416">GEOPHYSICS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.69444466px;line-height:1.25;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';letter-spacing:9.78958607px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.47505808"
-       x="7.0612473"
-       y="291.70825"
-       id="text4997"><tspan
-         sodipodi:role="line"
-         id="tspan4995"
+         id="text4993"><tspan
+           sodipodi:role="line"
+           id="tspan4991"
+           x="5.9937773"
+           y="254.67383"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';letter-spacing:5.29167px;fill:#666666;stroke-width:0.421604">GEOPHYSICS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;line-height:1.25;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';letter-spacing:9.78959px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.475058"
          x="7.0612473"
          y="291.70825"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';letter-spacing:9.78958607px;fill:#666666;stroke-width:0.47505808">LI·BRAR·Y</tspan></text>
+         id="text4997"><tspan
+           sodipodi:role="line"
+           id="tspan4995"
+           x="7.0612473"
+           y="291.70825"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';letter-spacing:9.78959px;fill:#666666;stroke-width:0.475058">LI·BRAR·Y</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.1"
+       id="rect854"
+       width="6.2981696"
+       height="13.243308"
+       x="-462.23999"
+       y="254.23422" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.1"
+       id="rect856"
+       width="4.3708282"
+       height="1.1604921"
+       x="268.36252"
+       y="587.4397" />
   </g>
 </svg>
