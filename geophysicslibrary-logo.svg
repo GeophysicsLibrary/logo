@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="800"
    height="800"
    viewBox="0 0 211.66666 211.66666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="geophysicslibrary-logo.svg"
    inkscape:export-filename="geophysicslibrary-logo.png"
-   inkscape:export-xdpi="72"
-   inkscape:export-ydpi="72">
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,18 +27,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42006606"
-     inkscape:cx="-928.26829"
-     inkscape:cy="516.69313"
+     inkscape:cx="501.11166"
+     inkscape:cy="302.3334"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="3200"
-     inkscape:window-height="1800"
-     inkscape:window-x="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1600"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      units="px"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -65,7 +66,7 @@
        y="85.333344" />
     <g
        id="g850"
-       transform="matrix(0.95000002,0,0,0.95000002,5.2916645,12.071921)">
+       transform="matrix(0.89033954,0,0,0.89033954,11.605732,23.319162)">
       <g
          id="g4989"
          transform="matrix(1.0175482,0,0,1.0175482,-1.81854,-25.583148)">
@@ -98,7 +99,7 @@
            height="15"
            width="130"
            id="rect975-3"
-           style="opacity:1;fill:#ff9955;fill-opacity:1;stroke-width:0.120048" />
+           style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke-width:0.120048" />
         <rect
            transform="rotate(-90)"
            rx="2.7729218"
@@ -108,7 +109,7 @@
            height="15"
            width="100"
            id="rect975-61"
-           style="opacity:1;fill:#71c837;fill-opacity:1;stroke-width:0.120048" />
+           style="opacity:1;fill:#37c8ab;fill-opacity:1;stroke-width:0.120048" />
       </g>
       <text
          xml:space="preserve"
