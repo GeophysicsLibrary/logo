@@ -5,9 +5,9 @@
    viewBox="0 0 211.66666 211.66666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="geophysicslibrary-logo.svg"
-   inkscape:export-filename="geophysicslibrary-logo.png"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="logo.png"
    inkscape:export-xdpi="120"
    inkscape:export-ydpi="120"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42006606"
-     inkscape:cx="501.11166"
-     inkscape:cy="302.3334"
+     inkscape:cx="345.1838"
+     inkscape:cy="303.52369"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,9 @@
      inkscape:window-maximized="1"
      units="px"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
